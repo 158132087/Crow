@@ -1,5 +1,5 @@
 # Crow
-A Crow who can walk ,fly and  sprint when he is flying
+A crow who can walk ,fly and  sprint when he is flying
   
 Create by Blueprints
   
